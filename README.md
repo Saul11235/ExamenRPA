@@ -1,4 +1,4 @@
-# ExamenRPA
+# Simulador examen de licencia RPA - DGAC
 simulador examen RPA, adaptado a simular el examen de licencia de piloto de drones 
 para DGAC, MTC - Ministerio de Transportes y Comunicaciones de Perú.
 
