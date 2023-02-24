@@ -3,8 +3,8 @@ import os
 
 #----------------------------
 
-numero_de_preguntas=2 #numero total de preguntas a tomar
-Archivo_preguntas="PreguntasRpa.txt"
+numero_de_preguntas=20 #numero total de preguntas a tomar
+Archivo_preguntas="PreguntasRpa.md"
 
 #----------------------------
 
