@@ -108,4 +108,10 @@ def comenzar_examen():
 
 
 if __name__=="__main__":
-    comenzar_examen()
+    try:
+        comenzar_examen()
+    except:
+        borrar_pantalla()
+        print("programa finalizado")
+
+        
